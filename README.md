@@ -1,7 +1,7 @@
 # go-timepicker-telegram
 Timepicker for telegram bot writen in GoLang
 
-## Sample preview from Telegram
+## How it looks like in telegram
 ![](.github/images/timepicker-sample-result.png)
 
 ## Usage
