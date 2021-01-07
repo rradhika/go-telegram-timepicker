@@ -53,7 +53,6 @@ func main() {
 			setMsg := "Set Jam Mulai"
 			switch {
 			case strings.Contains(data, "UPDATE-JAM"):
-				fmt.Println(data)
 				resData := tp.SeparateCallbackData(data)
 
 				var msg = tgbotapi.NewEditMessageText(
